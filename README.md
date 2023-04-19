@@ -6,9 +6,9 @@ This is a frontend capston project given by the Almabetter which is Flashcard Ge
  Deployment
 
 Click on the link to see  flashcard generator website
-
-
   https://myflashcardgenerator.netlify.app/
+
+
 
 
 Install dependencies

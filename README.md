@@ -36,7 +36,7 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 ```bash
 1) create Flashcard page 
 2) My Flashcard page 
-3) Flashcad Details page  with  share page 
+3) Flashcard Details page  with  share page 
 ```
 - create fashcard page: In create Flashcard page we used a Formik for creating input boxes and for the validation we used Yup
 
